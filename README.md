@@ -1,4 +1,4 @@
-# Sequential deep neural models for prediction of potent BACE1 hits  
+# Sequential deep learning models for prediction of potent BACE1 hits  
 **Summary**
 
 This repository contains data used for JCIM paper: **Sequential Deep Learning Models Driven Novel Virtual Screening Workflow for the Identification and Biological Evaluation of BACE1 Inhibitors.** All the constructed hyperparameter tuned DNN models trained on 10 datasets with different random seeds were assigned a task to make a prediction on the screening library. Also, given files in this repository includes docking poses of all the predicted hits.
