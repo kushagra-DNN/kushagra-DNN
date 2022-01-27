@@ -8,8 +8,7 @@ Moreover external validation set is also given in external_validation_set folder
 Another folder, Screening library contains maybridge library represented in the form of maacs fingerprints 
 
 To visualise the docking poses , the Pymol open source version was used.
-The folder Docking_poses contains all the files in pdb format. Each filename is written by its maybridge code name. 
-Each contains hits docked with the BACE1 protein.
+The folder Docking_poses contains all the files in pdb format. Each filename is written by its maybridge code name. Each contains hits docked with the BACE1 protein.
 In each of the folders, a text file is given that gives the description of each of the files provided 
 
 The rest of the imformation containing graphs, step wise methodology used for virtual screening and comparison of performance of differert models represented in the form of both tabular and graphical fomat and other details are provided in the Supplementary Information of the publication.
