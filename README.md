@@ -3,8 +3,8 @@
 
 This repository contains data used for JCIM paper: **Sequential Deep Learning Models Driven Novel Virtual Screening Workflow for the Identification and Biological Evaluation of BACE1 Inhibitors.** All the constructed hyperparameter tuned DNN models trained on 10 datasets with different random seeds were assigned a task to make a prediction on the screening library for the collection of potent inhibitors against BACE1. 
 
-The labelled 10 datasets provided in the folder balance_chem_pub contains files in csv format.  
-Another folder, Screening library contains maybridge library represented in the form of maacs fingerprints 
+The labelled 10 datasets provided in the folder balance_chem_pub contains files in csv format that are used for DNN model generation .  
+Another folder, Screening library contains maybridge library represented in the form of maacs fingerprints  
 
 To visualise the docking poses , the Pymol open source version was used.
 The folder BACE1_and_Hits contains cocrystallized protein, preprocssed protein and shortlisted hits represented in pdb format 
