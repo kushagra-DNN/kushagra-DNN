@@ -1,0 +1,2 @@
+The maybridge screening library of compounds (csv file) in MACCS fingerprints to be used for prediction 
+ALL the hyperparameter tuned DNN models are subjected to prediction of compounds from this screening library. 
