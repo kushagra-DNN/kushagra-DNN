@@ -12,7 +12,7 @@ The folder Docking_poses contains all the files in pdb format. Each filename is 
 
 In each of the folders, a text file is also provided that gives the description of each of the files.  
 
-The rest of the imformation containing graphs, step wise methodology used for virtual screening and comparison of performance of differert models represented in the form of both tabular and graphical fomat and other details are provided in the Supplementary Information of the publication.
+The rest of the information containing graphs, step wise methodology used for virtual screening and comparison of performance of differert models represented in the form of both tabular and graphical fomat and other details are provided in the Supplementary Information of the publication.
 
 
 
