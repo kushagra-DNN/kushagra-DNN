@@ -1,2 +1,2 @@
-The decoys dataset (csv file) for BACE1 represented in MACCS fingerprint (166 bits). 
+The decoys dataset (MaccsLabelled_validation_set.csv file) for BACE1 represented in MACCS fingerprint (166 bits). 
 The dataset is labelled. The last column containing the class : actives (1) and decoys (0)
