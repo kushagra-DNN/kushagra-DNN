@@ -1,1 +1,3 @@
-The 10 balanced (preprocessed ChEMBL and PubChem dataset) for training with active and inactive same in each dataset while putative inactive different  
+The 10 balanced (preprocessed ChEMBL and PubChem dataset) for training with active and inactive same in each dataset while putative inactive different.
+Description of each balanced dataset is splitted into training, test and internal validation set is given in the manuscript.
+.
