@@ -1,3 +1,0 @@
-The 10 balanced datasets :- d1,d2,d3,d4,d5,d6,d7,d8,d9,d10 containing csv files (preprocessed ChEMBL and PubChem dataset) for training with active and inactive same in each dataset while putative inactive different.
-Description of each balanced dataset is splitted into training, test and internal validation set is given in the manuscript.
-
